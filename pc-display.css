@@ -178,7 +178,7 @@ ul.nav-li{
     color: rgb(179, 100, 215);
     position: absolute;
     left: 41%;
-    top: 22%;
+    top: 19%;
 }
 
 .aboutme>p{
@@ -192,7 +192,7 @@ ul.nav-li{
 #my-icon{
     position: absolute;
     left: 41%;
-    top: 37%;
+    top: 34%;
     width: 260px;
     height: 260px;
     object-fit: cover;
