@@ -182,6 +182,7 @@ ul.nav-li{
 }
 
 .aboutme>p{
+    color: #fffffc;
     line-height: 200%;
     font-size: 1.3rem;
     position: absolute;
