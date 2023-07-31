@@ -107,8 +107,8 @@ ul.nav-li{
     position: absolute;
     left: 50%;
     top:53%;
-    width: 790px;
-    height: 490px;
+    width: 590px;
+    height: 290px;
     object-fit: cover;
 }
 
@@ -132,10 +132,10 @@ ul.nav-li{
 
 #A-img3{
     position: absolute;
-    left: 22%;
+    left: 19%;
     top:80%;
-    width: 1180px;
-    height: 200px;
+    width: 1080px;
+    height: 100px;
     object-fit: cover;
 
 }
@@ -182,7 +182,7 @@ ul.nav-li{
 
 .aboutme>p{
     line-height: 200%;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     position: absolute;
     left: 35%;
     top: 70%;
@@ -192,8 +192,8 @@ ul.nav-li{
     position: absolute;
     left: 41%;
     top: 37%;
-    width: 380px;
-    height: 380px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
 }
 
